@@ -1,0 +1,26 @@
+.home {
+    position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border: black 2px solid;
+  padding: 80px 80px;
+}
+
+.home h1 {
+    color: rgba(10, 85, 10, 0.473);
+}
+
+.logo{
+    height: 45px;
+	width: 100px;
+}
+
+.buttonhome {
+    text-decoration: none;
+    color: black;
+}
+
+.h2home {
+    padding-bottom: 10px;
+}
